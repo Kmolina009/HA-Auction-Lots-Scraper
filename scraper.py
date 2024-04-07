@@ -17,4 +17,5 @@ else:
     print("Failed to fetch the URL:", url)
 
 
-# NOTE: Received 403 error
+# NOTE: Received 403 error - will not pursue this project any further
+    
